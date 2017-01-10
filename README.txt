@@ -9,5 +9,4 @@ This project along with the course helps Treehouse students learn about working 
 
 
 
-
-Just making some useless changes
+Making some useless changes
